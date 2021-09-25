@@ -1,0 +1,16 @@
+@media(min-width:768px){
+    .float-media-query{
+        float: right;
+    }
+}
+
+.mohan-content{
+    min-height: 0px;
+}
+
+.mohan-footer{
+    padding: 10px 0;
+    background-color: #101010;
+    color:#9d9d9d;
+    bottom: 0;
+}
