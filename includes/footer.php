@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div>
     <footer style="background-color: #eeeeee; color: #000000;">
         <div class="container">
@@ -22,14 +21,4 @@
             </div>
         </div>
     </footer>
-=======
-<div class="mohan-footer">
-<footer>
-    <div class="container"> 
-        <center> 
-            <p>Copyright &copy; Lifestyle Store. All Rights Reserved | Contact Us: +91 90000 00000</p> 
-        </center> 
-    </div> 
-</footer>
->>>>>>> eee2b71 (E-Commerce app by using html,css,bootstrap,php and mysqli)
 </div>

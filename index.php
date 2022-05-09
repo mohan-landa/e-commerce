@@ -1,21 +1,13 @@
-<<<<<<< HEAD
 <?php 
 require 'includes/common.php';
 if(isset($_SESSION['email'])){
     header('location: home.php');
-=======
-<?php
-require 'includes/common.php';
-if (isset($_SESSION['email'])) { 
-    header('location: products.php');    
->>>>>>> eee2b71 (E-Commerce app by using html,css,bootstrap,php and mysqli)
 }
 ?>
 
 <!DOCTYPE html>
 <html>
     <head>
-<<<<<<< HEAD
         <meta charset="UTF-8">
         <title>E- Store</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
@@ -169,34 +161,6 @@ if (isset($_SESSION['email'])) {
                     </div>
                 </div>
                     
-=======
-        <title>Lifestyle Store</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-        <link rel="stylesheet" href="css/style.css" type="text/css">
-    </head>
-    <body>
-        
-        <?php
-        include 'includes/header.php';
-        ?>
-        
-        <br>
-        <div class="container" style="background-color : #000000;"></div>
-        <div class="container-fluid" style="background-color : #000000;"></div>
-       
-        <div class="mohan-content">
-            <div id="banner_image">
-                <div class="container">
-                    <center>
-                    <div class="banner_content">
-                        <a href="products.php" class="btn btn-danger btn-lg active">Shop Now</a>
-                    </div>
-                    </center>
->>>>>>> eee2b71 (E-Commerce app by using html,css,bootstrap,php and mysqli)
                 </div>
             </div>
         </div>
@@ -206,8 +170,4 @@ if (isset($_SESSION['email'])) {
         ?>
         
     </body>
-<<<<<<< HEAD
 </html>
-=======
-</html>
->>>>>>> eee2b71 (E-Commerce app by using html,css,bootstrap,php and mysqli)
